@@ -1,4 +1,3 @@
-print("Positive/Negative/Zero")
 a=int(input("Enter a number to continue:"))
 if(a>0):
     print("Positive")
